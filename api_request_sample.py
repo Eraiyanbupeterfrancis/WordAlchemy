@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-token = "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"
+token = "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"
 endpoint = "https://models.github.ai/inference"
 model = "openai/gpt-4.1"
 
