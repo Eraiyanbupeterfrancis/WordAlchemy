@@ -39,7 +39,7 @@ Whether you're a student, teacher, or writer seeking inspiration, WordAlchemy is
 
 1. **Clone the Grimoire:**
    ```sh
-   git clone https://github.com/yourusername/WordAlchemy.git
+   git clone https://github.com/Eraiyanbupeterfrancis/WordAlchemy.git
    cd WordAlchemy
    ```
 
