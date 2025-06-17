@@ -1,6 +1,6 @@
 # ✨🧙‍♂️ WordAlchemy: Turn Words into Enchanted Stories! 🪄📚
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![OpenAI Powered](https://img.shields.io/badge/AI-OpenAI_GPT-ff69b4)
 ![PyInstaller](https://img.shields.io/badge/Build-PyInstaller-4B8BBE)
@@ -99,12 +99,6 @@ Whether you're a student, teacher, or writer seeking inspiration, WordAlchemy is
 - [ ] Word frequency and usage highlights
 - [ ] Share stories with fellow alchemists online
 - [ ] Dark mode for late-night spellcasting
-
----
-
-## 📜 License
-
-This spellbook is released under the MIT License.
 
 ---
 
