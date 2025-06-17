@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-token = "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"
+token = ""#replace-your-api-key
 endpoint = "https://models.github.ai/inference"
 model = "openai/gpt-4.1"
 
