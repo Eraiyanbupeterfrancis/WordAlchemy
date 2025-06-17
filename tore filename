@@ -1,0 +1,17 @@
+[33mcommit 9ae9662342e80361700b21739d3b6eda73dca781[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Eraiyanbupeterfrancis <eraiyanbupeterfrancis.com>
+Date:   Tue Jun 17 11:47:33 2025 +0530
+
+    removed api key
+
+[33mcommit b2890bc645cd38e566e4ca878fe9bf80866fe287[m
+Author: Eraiyanbupeterfrancis <eraiyanbupeterfrancis.com>
+Date:   Tue Jun 17 11:37:48 2025 +0530
+
+    the wordalchemy works successfully
+
+[33mcommit 6801444a8b418d9ea63b888eb78dc28e1a00b436[m
+Author: Eraiyanbupeterfrancis <166051374+Eraiyanbupeterfrancis@users.noreply.github.com>
+Date:   Mon Jun 16 23:45:06 2025 +0530
+
+    Initial commit
