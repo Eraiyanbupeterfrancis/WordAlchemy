@@ -19,7 +19,8 @@ Whether you're a student, teacher, or writer seeking inspiration, WordAlchemy is
 
 ## 🧙‍♀️ How Does the Alchemy Work?
 
-![Step-by-step magic workflow](WordAlchemy/Step-by-step_magic_850x1300.png)
+![Step-by-step magic workflow](./Step-by-step_magic_850x1300.png)
+
 
 ---
 
