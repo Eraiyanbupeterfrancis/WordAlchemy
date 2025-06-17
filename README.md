@@ -19,14 +19,7 @@ Whether you're a student, teacher, or writer seeking inspiration, WordAlchemy is
 
 ## 🧙‍♀️ How Does the Alchemy Work?
 
-```mermaid
-flowchart TD
-    A[User Enters Words] --> B[Selects Genre]
-    B --> C[Clicks "Generate Story"]
-    C --> D[Words & Genre Combined into Spell (Prompt)]
-    D --> E[OpenAI GPT Casts the Story Spell]
-    E --> F[Story Appears in the Magic Scroll (GUI)]
-```
+![Step-by-step magic workflow](WordAlchemy/Step-by-step_magic_850x1300.png)
 
 ---
 
@@ -65,7 +58,7 @@ flowchart TD
    ```
    The enchanted `.exe` will appear in the `dist/` cauldron.
 
----
+----
 
 ## 🪄 Usage: Cast Your First Story Spell
 
